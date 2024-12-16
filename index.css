@@ -1,0 +1,1142 @@
+   *{
+      margin: 0px;
+   }
+   body{
+      background-color: antiquewhite;
+   }
+   .head{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+   }
+
+   .head ul{
+      display: flex;
+      gap: 50px;
+      list-style: none;
+   }
+ 
+   
+ 
+
+   .image1 img{
+      width: 190px;
+      height: 110px;
+      margin-left: 50px;
+   }
+   .love:hover{
+      background-color: red;
+   }
+
+   .images img  {
+      width: 30px;
+      height: 30px;
+      margin-right: 40px;
+
+   }
+ 
+   .main img {
+      width: 1100px;
+      height: 500px;
+      margin: 20px 70px;
+      border-radius: 20px;
+
+   }
+
+   /* 
+   Three-dives */
+
+   .flex{
+      display: flex;
+   }
+   
+   .dives{
+      width: 220px;
+      height: 160px;
+      margin: 60px 45px;
+      background-color: white;
+      border-radius: 20px;
+      
+   }
+
+   .dives:hover{
+      background-color: #20768D;
+   }
+
+   .dives img{
+      margin: 20px 65px;
+      
+   }
+   .dives h4{
+      
+   margin-left: 70px;
+   color: black;
+   }
+   
+
+   .parent {
+      display: flex;
+      justify-content: space-evenly;
+      margin-bottom: 100px;
+      margin-top: 50px;
+   }
+
+   .parent img{
+      width: 400px;
+      height: 330px;
+      border-radius: 20px;
+      
+   }
+
+   .Chaild-Right{
+      width: 430px;
+      height: 330px;
+      background-color: white;
+      border-radius: 10px;
+   }
+
+   .Furnature{
+      width: 350px;
+      padding: 70px;
+   
+   }
+
+   .Furnature button{
+
+      width: 120px;
+      height: 40px;
+      padding: 5px;
+      border-radius: 15px;
+      border: none;
+      background-color:#20768D;
+      margin-top: 20px;
+
+   
+      
+   }
+
+   .Show{
+      display: flex;
+   }
+   .Show h4{
+      margin-top: 30px;
+      margin-left: 20px;
+
+   }
+
+   /* table */
+
+
+.p-Table{
+   display: flex;
+
+}
+
+ 
+   /* chairs */
+
+
+   .chairs{
+      width: 450px;
+      height: 560px;
+      background-color: #a9d0db;
+      margin: 10px 60px;
+      border-radius: 10px;
+       
+   }
+.Child-chairs {
+   padding: 30px;
+   width: 200px;
+   position: relative;
+}
+
+.Child-chairs h3{
+   margin-top: 20px;
+}
+
+.Child-chairs p{
+   margin-top: 20px;
+   color: rgb(39, 27, 27);
+}
+
+.Child-chairs h5{
+   margin-top: 40px;
+   color: black;
+   font-size: 20px;
+}
+.Child-chairs h2{
+   color: blue;
+}
+
+.Child-chairs img{
+   position: absolute;
+   top: 180px;
+   left: 100px;
+   width: 350px;
+   height: 350px;
+   
+}
+
+
+   .Table{
+      width: 500px;
+      height: 300px;
+      background-color: white;
+       border-radius: 20px;
+      margin-left: 130px;
+      display: flex;
+   }
+ 
+
+   
+   .Child{
+      padding: 30px;
+      width: 60px;
+      
+   }
+   .Child h5{
+      margin-top: 15px;
+      margin-bottom: 10px;
+   }
+
+   .Child p{
+      margin-top: 10px;
+   }
+   .Child h6{
+      margin-top: 15px;
+      font-size: 12px;
+   }
+   
+   .Table img{
+      width: 370px;
+      height: 300px;
+      margin: 0px 20px;
+   }
+
+   .light{
+      width: 280px;
+      height:230px;
+      background-color: rgb(231, 191, 138);
+      margin: 40px 110px;
+      border-radius: 10px;
+      margin-bottom: 40px;
+      display: flex;
+
+   }
+   .light-child {
+      width: 200px;
+      padding: 20px;
+      
+
+   }
+
+   .light-child h2{
+   
+
+   }
+
+   .light-child p{
+      margin-top: 10px;
+      margin-left: 10px;
+      
+   }
+   .light-child h5{
+      margin-top: 15px;
+      font-size: 15px;
+      
+   }
+
+   .light img{
+      width: 200px;
+      height: 200px;
+      
+   }
+
+
+   .Offer{
+      width: 200px;
+      height: 230px;
+      background-color: #20768D;
+      border-radius: 10px;
+       margin-top: 44px;
+      text-align: center;
+      margin-left: -70px;
+      
+
+   }
+
+   .Offer button{
+      background-color: orange;
+      border: none;
+      border-radius: 20px;
+      padding: 10px;
+      margin-top: 60px;
+   }
+   .Offer h6{
+      color: white;
+      margin-top: 15px;
+      font-size: 22px;
+
+   }
+   .flex3{
+      display: flex;
+      margin-top: -290px;
+   }
+ 
+
+
+   .Latest{
+      height: 500px;
+      background-color: rgb(124, 124, 198);
+      margin-top: 30px;
+      margin-bottom: 100px;
+      display: flex;
+   }
+
+   .Chail-latest{
+      width: 400px;
+      padding: 90px;
+   }
+
+   .Chail-latest h4 {
+      font-size: 42px;
+      margin-bottom: 20px;
+   }
+
+   .Chail-latest button{
+      border-radius: 20px;
+      border: none;
+      padding: 4px;
+      background-color: rgb(19, 19, 47);
+      color: white;
+      margin-top: 15px;
+      width: 120px;
+      height: 40px;
+   }
+
+
+/* 
+   Nordic-chair */
+
+   .Nordic-chair{
+      margin: 110px 0px;
+      width: 220px;
+      height: 230px;
+      background-color: grey;
+      border-radius: 10px;
+
+   }
+   .Nordic-chair img{
+      width: 200px;
+      height: 200px;
+      margin-top: -40px;
+      margin-left: 20px;
+   }
+
+   .Nordic-chair p{
+      text-align: center;
+      font-size: 22px;
+      color: white;
+      font-family: 'Franklin Gothic Medium', ;
+   }
+   .Nordic-chair h6{
+      text-align: center;
+      font-size: 25px;
+      color: azure;
+   }
+
+
+   /* .ongue-chair */
+
+   .longue-chair {
+      margin-top: 90px;
+      margin-left: 10px;
+   }
+
+   .longue-chair img{
+      width: 200px;
+      height: 200px;
+   }
+
+   .longue-chair p{
+      margin-left: 40px;
+      color: white;
+      
+   }
+   .longue-chair h6{
+      margin-left: 60px;
+      margin-top: 5px;
+      font-size: 22px;
+      color: white;
+      
+   }
+
+   /* Tranding */
+
+    
+   .Tranding{
+      padding: 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+   }
+   .Tranding h6{
+      font-size: 23px;
+      
+   }
+
+   .Tranding button{
+      border-radius: 20px;
+      border: none;
+      padding: 4px;
+      background-color: rgb(5, 5, 74);
+      color: white;
+      margin-top: 15px;
+      width: 170px;
+      height: 40px;
+
+   }
+
+.flex-main{
+   display: flex;
+   margin-top: 80px;
+   margin-left: 60px;
+}
+
+
+   .kuraas{
+      width: 290px;
+      height: 270px;
+      background-color:rgb(252, 246, 246);
+      border-radius: 10px;
+      margin: 0px 30px;
+      margin-bottom: 120px;
+      padding: 10px;
+      
+   }
+   .Fourth{
+      display: flex;
+      gap: 160px;
+      width: 60px;
+      height: 55px;
+      background-color: blue;
+      border-radius: 100px;
+     
+   }
+   .Fourth h1{
+      font-size: 20px;
+      margin-left: 5px;
+      padding: 12px;
+      color: white;
+   }
+
+   .kuraas-cad img{
+      width: 230px;
+      height: 200px;
+      margin-left: 30px;
+   }
+
+   /* botton */
+
+   .button{
+       
+      width: 310px;
+      height: 90px;
+      border-radius: 5px;
+      background-color: #20768D;
+      margin-top: 5px;
+      margin-left: -10px;
+      color: white;
+      
+     
+      
+   }
+   .button:hover{
+      background-color: blue;
+      cursor: pointer;
+   }
+
+ 
+
+   .Fibric{
+       padding: 8px;
+      font-size: 29px;
+       padding-top: 16px;
+       display: flex;
+       gap: 70px;
+   }
+   .shopp img{
+     width: 60px;
+     height: 60px;
+     border-radius: 20px;
+     margin-left: 10px;
+   }
+   
+ .Super-Sale{
+   width: 430px;
+   height: 350px;
+   background-color: rgb(216, 208, 208);
+   margin-bottom: 120px;
+   margin-top: 70px;
+   margin-left: 85px;
+   border-radius: 20px;
+   padding: 10px;
+ }
+ .Super-Sale:hover{
+   background-color: #20768D;
+ }
+
+.flex-Two{
+   display: flex;
+}
+
+
+
+ .offer{
+   padding: 30px;
+   
+ }
+
+.offer-flex{
+   display: flex;
+}
+
+
+ .offer p{
+   font-size: 10px;
+   color: #676666;
+ }
+
+
+ .offer h6{
+   font-size: 22px;
+   margin-bottom: 5px;
+  
+ }
+
+ .price{
+ margin-top: 80px;
+ margin-left: 140px;
+ }
+
+ .gray-fib img {
+   width: 300px;
+   height: 200px;
+   margin-left: 40px;
+ }
+
+
+ .Super-Sale button{
+   width: 120px;
+   height: 40px;
+   padding: 5px;
+   border-radius: 20px;
+   border: none;
+   background-color: rgb(8, 5, 68);
+   
+   float: right;
+   color: white;
+ }
+
+ .two img{
+   width: 350px;
+   height: 376px;
+   margin: 60px 120px;
+ }
+
+ /* best-salling */
+
+ .best-salling h3{
+   margin-left: 80px;
+   margin-bottom: 40px;
+ }
+
+ .three-dives{
+   margin-bottom: 120px;
+   width: 230px;
+   height: 270px;
+   background-color: white;
+   margin-left: 70px;
+   border-radius: 10px;
+   padding: 15px;
+ }
+
+.flex-best{
+
+display: flex;
+margin-left: 40px;
+}
+
+
+
+ .off{
+   width:70px;
+   height: 30px;
+   background-color: blue;
+   border-radius: 20px;
+   padding: 5px;
+   display: flex;
+   gap: 120px;
+   
+
+ }
+.off:hover{
+   background-color: #20768D;
+}
+
+ .off h6{
+   font-size: 18px;
+   color: white;
+   margin-top: 4px;
+   margin-left: 20px;
+   
+ }
+
+ .off img{
+   width: 30px;
+   height: 30px;
+ }
+ .off img:hover{
+   background-color: red;
+ }
+
+ .gray-fibric img{
+   width: 260px;
+   height: 200px;
+   margin-top: 50px;
+   margin-left: -20px;
+ }
+
+ .Laxery p{
+   font-size: 20px;
+   margin-top: 4px;
+ }
+
+ .flex-lower{
+   display: flex;
+   gap: 80px;
+   margin-top: 10px;
+   
+ }
+
+ .love-right{
+   display: flex;
+ }
+
+ .love-right{
+   width: 30px;
+   height: 30px;
+ }
+ .love-right h4{
+   margin: 5px 5px;
+   font-size: 17px;
+ }
+
+
+ /* client say */
+
+
+
+ .client{
+   padding: 60px;
+   font-size: 20px;
+   width: 200px;
+
+ }
+
+ .client-say{
+   width: 640px;
+   height: 240px;
+   background-color: #20768D;
+   margin: 50px 100px;
+   border-radius: 10px;
+   position: relative;
+ }
+
+ .client-right{
+   width: 300px;
+   float: right;
+   margin-top: 60px;
+ }
+
+ .client-right p{
+   margin-top: 4px;
+   color: rgb(194, 187, 187);
+    
+ }
+
+  .client-right h6{
+   margin-top: 8px;
+   font-size: 15px;
+ }
+.Women{
+   width: 240px;
+   height: 300px;
+   background-color: gray;
+ left: 25px;
+ top: -30px;
+   border-radius: 10px;
+   position: absolute;
+
+    
+}
+.Women img{
+   width: 300px;
+   height: 300px;
+   margin-left: -20px;
+}
+
+
+
+.client-says{
+   width: 300px;
+   height: 250px;
+   background-color: #20768D;
+   margin: 40px 100px;
+   border-radius: 10px;
+   position: relative;
+ }
+
+.flex-client{
+   display: flex;
+
+}
+
+.Wamen img{
+   width: 300px;
+   height: 300px;
+   margin-left: -20px;
+}
+
+.Wamen{
+   width: 240px;
+   height: 300px;
+   background-color: gray;
+ left: 60px;
+ top: -30px;
+   border-radius: 10px;
+   position: absolute;
+}
+
+.Update{
+   width: 890px;
+   height: 290px;
+   background-color: white;
+   margin: 100px 120px;
+   
+   border-radius: 10px;
+
+   
+}
+
+.chaild-Udate{
+   width: 400px;
+   padding: 50px;
+ }
+
+ .chaild-Udate p{
+   margin-top: 6px;
+ }
+ .Email-Subscribe{
+   margin: 0px 55px;
+   position: relative;
+    
+ }
+
+ .Email input {
+
+   width: 280px;
+   height: 30px;
+    
+   border-radius: 30px;
+   margin-top: 25px;
+
+ }
+
+ .Subscribe button{
+   background-color: #20768D;
+   width: 100px;
+   height: 40px;
+   border: none;
+   border-radius: 15px;
+   color: white;
+   position: absolute;
+   top: 22px;
+   left: 210px;
+
+
+ }
+.right-image img{
+   width: 340px;
+   height: 250px;
+   border-radius: 15px;
+   position: absolute;
+   top: -150px;
+   left: 460px;
+
+}
+
+
+
+/* footer */
+ 
+.footer{
+ 
+   display: flex;
+   gap: 15px;
+   
+}
+
+.left-footer{
+   width: 400px;
+   padding: 50px;
+   margin-top: 80px;
+}
+.left-footer i{
+   margin-top: 10px;
+   font-size: 32px;
+   margin-right: 30px;
+   
+}
+
+.information{
+   margin-top: 150px;
+}
+
+.information ul{
+   list-style: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin-top: 15px;
+}
+
+.information h1{
+  
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.information li{
+   margin-bottom: 10px;
+}
+
+
+
+.Payment-Method{
+   margin-top: 150px;
+   margin-left: 40px;
+} 
+
+
+.Payment-Method ul{
+   list-style: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.Payment-Method li{
+   margin-bottom: 10px;
+   margin-right: 20px;
+}
+
+.Payment-Method ul{
+   margin-top: 15px;
+   margin-bottom: 30px;
+   list-style: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.Payment-Method h1{
+  margin-left: 20px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+ 
+ 
+
+
+.get-online {
+   margin-top: 150px;
+   margin-left: 90px;
+}
+
+
+.get-online img{
+   width: 200px;
+   height: 200px;
+}
+
+ .FOOTER{
+   height: 400px;
+   background-color: white ;
+   display: flex;
+   gap: 15px;
+   
+ }
+ 
+
+ .coppy-right{
+   display: flex;
+   gap: 800px;
+ }
+ .coppy-right p{
+   font-size: 15px;
+   font-weight: bold;
+   margin-left: 20px;
+ }
+
+  /* End */
+
+
+  @media screen and ( max-width:600px  ){
+
+.lists ul{
+   display: none;
+}
+
+.images img{
+    display: none;
+}
+
+.solid i{
+   font-size: 33px;
+   margin-left: 130px;
+}
+
+.main img{
+   width: 420px;
+   height: 400px;
+   margin-left: 60px;
+}
+
+.image1 img{
+   width: 100px;
+   height: 100px;
+   margin-left: 30px;
+}
+.images i{
+  font-size: 33px;
+  margin-right: 30px;
+}
+.flex{
+   flex-direction: column;
+   margin-left: 90px;
+   
+}
+
+.dives{
+   margin-bottom: 0px;
+}
+
+.parent{
+   flex-direction: column;
+   margin-left: 50px;
+}
+
+.Chaild-Right{
+   width: 390px;
+   height: 300px;
+   margin-top: 30px;
+}
+.Furnature{
+   padding: 40px;
+}
+
+.Table{
+   margin-left: 50px;
+   width: 400px;
+}
+
+.p-Table img{
+   width: 200px;
+   height: 200px;
+   margin-top: 50px;
+}
+
+.flex3{
+   flex-direction: column;
+   margin-left: 40px;
+    
+}
+
+.light{
+   margin-left: 50px;
+   margin-top: 340px;
+}
+.Offer{
+   margin-top: 0px;
+   margin-left: 70px;
+}
+.chairs{
+  display: none;
+}
+.Latest{
+   flex-direction: column;
+    padding: 50px;
+    height: 1270px;
+   
+}
+.Chail-latest{
+   padding: 20px;
+   width: 300px;
+   margin-left: 30px;
+}
+
+.Nordic-chair{
+    margin-top: 60px;
+    margin-left: 60px;
+  
+}
+
+ 
+.longue-chair{
+   margin-top: 40px;
+   margin-left: 80px;
+}
+
+.flex-main{
+   flex-direction: column;
+   margin-left: 80px;
+
+}
+.flex-Two{
+   flex-direction: column;
+}
+
+
+.Super-Sale{
+   margin-left: 10px;
+   width: 350px;
+   height: 424px;
+   margin-bottom: 20px;
+   margin-left: 80px;
+}
+
+.Super-Sale button{
+   margin-top: 30px;
+}
+.two img{
+   margin-left: 80px;
+}
+ 
+
+.flex-best{
+   flex-direction: column;
+   margin-left: 70px;
+}
+
+.best-salling h3{
+   font-size: 33px;
+   margin-left: 120px;
+}
+.flex-client{
+   flex-direction: column;
+}
+
+ 
+.client-say{
+   margin-left: 80px;
+   width: 390px;
+}
+
+.client-right{
+   margin: 0px;
+   padding: 40px;
+    
+}
+
+.Women{
+   margin-top: 320px;
+   margin-left: 40px;
+}
+
+.Wamen{
+   margin-top: 70px;
+   margin-left: 80px;
+}
+.client-says {
+   margin-left: 80px;
+
+}
+
+.client-says{
+   margin-top: 440px;
+   margin-left: 30px;
+}
+
+
+
+
+.Update{
+   width: 340px;
+ margin-left: 90px;
+   padding: 10px;
+  
+
+}
+ .chaild-Udate{
+   width: 200px;
+   padding: 20px;
+   
+ }
+
+
+.Email-Subscribe{
+   margin: 10px;
+}
+
+.right-image  img{
+   left: 0px;
+   top: 200px;
+}
+.footer{
+   flex-direction: column;
+   
+   
+}
+   
+.FOOTER{
+   height: 1050px;
+   margin-top: 400px;
+   
+   
+}
+.left-footer{
+   width: 200px;
+   margin: 0px;
+   padding: 0px;
+   margin-left:150px;
+   padding-top: 60px;
+}
+
+.information{
+   margin: 0px;
+   margin-left:150px;
+   margin-top: 60px;
+
+}
+.Payment-Method{
+   margin-left:150px;
+   margin-top: 60px;
+}
+.get-online{
+   margin-left:150px;
+   margin-top: 60px;
+}
+  
+ .coppy-right{
+   
+  
+   gap: 10px;
+ }
+
+ .coppy-right p{
+   width: 400px;
+ }
+
+
+ 
+
+
+
+
+}
